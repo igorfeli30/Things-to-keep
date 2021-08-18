@@ -1,0 +1,128 @@
+\documentclass{article}
+\usepackage{nopageno}
+
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage{gensymb}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[portuguese,english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{wrapfig}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{indentfirst}
+\selectlanguage{portuguese}
+\centering
+
+\title{Usinagem}
+\author{Igor Felipe Da Silva Rodrigues Lopes \\Matricula:201810077611 \\ email \url{igorfelipe201615@gmail.com}}
+\\
+\begin{document}
+\selectlanguage{portuguese}\maketitle
+ \begin{figure}[h]
+    \label{Fig1}
+    \centering
+    \includegraphics[width=0.9\textwidth]{uerj_logo.jpg}
+     
+    \end{figure}
+    \clearpage
+\maketitle
+
+\section{Introdução}
+\begin{flushleft}
+No início do vídeo é comentado sobre a importância dos métodos de fabricações e como estes são cruciais para o bom funcionamento de um elemento mecânico de forma eficaz em um sistema. Logo isso é apresentado a diferença entre as duas famílias de processos de fabricação de uma peça, estes são denominadas de:
+\end{flushleft}
+\begin{itemize}
+    
+    \item {Sem a produção de cavacos: cujos estes processos englobam a família dos processos metalúrgicos, onde podemos citar os processos de fundição, e laminação.  }
+    
+    \item{Processos com a produção de cavacos; cujos são denominados os processos de usinagem. onde este é tido como um tipo de trabalho mecânico, onde há aplicação de tensões superiores do limite de ruptura do material, logo assim, é possível retirar partes dos material em questão (cavacos), dando a forma desejada a peça final.}
+
+\end{itemize}
+\begin{figure}[h!]
+  \centering
+  \begin{minipage}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{soldagem.png}
+    \caption{Exemplo de processo metalúrgico}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{usinagem.jpg}
+    \caption{Exemplo de um processo de usinagem}
+  \end{minipage}
+\end{figure}
+
+\section{Tecnologia de corte}
+\begin{flushleft}
+  Podemos destacar a utilidade dos processos de usinagem em vários pontos de um projeto, visando assegurar o funcionamento, entre elas temos:
+\end{flushleft}
+\begin{itemize}
+    
+    \item {Melhor acabamento da peça: Isso é aplicado quando fabricando peças pelo processos de forjamento e fundição, é que estas possuem superfícies grosseiras e dependendo do projeto, isto não é adequado, logo é necessário realizar um processo de usinagem para atender os requerimentos, como rugosidade, dimensões mais precisas e et cetera;  }
+    
+    \item{Versatilidade de fabricação: A família de processos de usinagem, permitem a realização de varias formas diferentes de como o material pode ser fabricado, assim podemos realizar desde furos, aberturas de canais, até mesmo fabricar um peça mecânica através uma peça bruta(tarugo), sendo este de uma liga metálica ou não.}
+    
+\end{itemize}
+\\
+\begin{flushleft}
+Entre os métodos de usinagem mais empregados, podemos citar: torneamento, fresamento, furação e limagem, et cetera. \\
+\end{flushleft}
+
+\begin{flushleft}
+Independente do processos todas elas realizam o cisalhamento, isso eventualmente dá o corte ao material. É necessário ressaltar a importância de conhecer as propriedades do material usinado, propriedades mecânicas como tenacidade e dureza, pois, a partir destas podemos escolher o melhor método e as ferramentas adequadas para realizar o processo de forma que o material usinado e que a fabricação seja segura aos operadores e não comprometa o material de corte.\\
+\end{flushleft}
+\begin{flushleft}
+Para isto, temos a importância da cunha e seu ângulo de corte, pois, cada material precisa sofrer o corte usando o ângulo mais adequado, da maneira mais eficiente e menos agressiva a ferramenta de corte.
+\end{flushleft}
+\selectlanguage{portuguese}\maketitle
+ \begin{figure}[h!]
+    \label{Fig1}
+    \centering
+    \includegraphics[width=0.5\textwidth]{cunha.jpeg}
+    \caption{Ângulos de cunha de diferentes tipos de metais }
+    \end{figure}
+    \selectlanguage{portuguese}\maketitle
+ \begin{figure}[h!]
+    \label{Fig1}
+    \centering
+    
+    \includegraphics[width=0.2\textwidth]{folga.jpeg}
+    \caption{Exemplo de 2 tipos de ângulos de folgas} 
+    \end{figure}
+    \\
+\begin{flushleft}
+Na figura 3 temos que pra cada material, temos ângulo mais eficiente, cujo estes são calculados e tabelados de acordo com a ferramenta e material.\\ 
+\end{flushleft}
+\begin{flushleft}
+Na figura 4 temos duas situações com ângulos de folga diferentes, na primeira temos sem um ângulo de folga, gerando muito atrito entre a ferramenta de corte e o material usinado, cujo este não é ideal, e a situação 2 cujo a ferramenta foi afiada e o nosso dispositivo de corte possui uma superfície de atrito, realizando o processo de usinagem de modo mais eficiente.\\
+\end{flushleft}
+\begin{flushleft}
+O material de corte precisa ser mais resistente ao desgaste do que a peça usinada na temperatura de trabalho do processo, além do custo do material de corte necessita estar compatível com o trabalho. Além disso, a ferramenta e seu material que a compõe são fabricados levando em conta vários fatores: 
+\end{flushleft}
+\begin{itemize}
+    \item {Finalidade de trabalho: para que tipo de material ela precisa cortar, propriedades mecânicas em geral;}
+    \item{Temperatura de trabalho que ocorre a usinagem;}
+    \item{Acabamento da ferramenta pra alguma aplicação específica.  }
+\end{itemize}
+
+\section{Conclusão}
+\begin{flushleft}
+Concluímos que a usinagem é essencial no ciclo de fabricação de um produto, cujo é necessário o conhecimento prévios como a geometria e a ciência de materiais, para que esta acarrete o melhor custo-benefício a cadeia de projeto,  o processo seja realizado de forma segura não comprometendo em nenhum momento o operador, a máquina ou peça, através das escolhas dos processos e ferramentas corretas.
+\end{flushleft}
+\begin{thebibliography}{}
+\bibitem{fig1} Figura 1, disponível
+ \url{http://trajanocamargo.com.br/site/index.php/en/tecnico-em-metalurgia }
+\bibitem{fi2} Figura 2, Disponível em \url{https://www.erominas.com.br/usinagem/usinagem-industrial-porque-contratar-uma-empresa-especializada}
+
+\bibitem{fig 3 4 } Figura 3 e Figura 4  \url{http://www.madeira.ufpr.br/disciplinasivan/processoscorte_arquivos/Geometriadecorte.pdf}
+
+
+
+\end{thebibliography}
+
+
+
+\end{document}
+
